@@ -6,11 +6,11 @@
 * [Project2 보고서](https://github.com/BonjunK00/os-xv6/blob/master/project02_2019092306.pdf)
 * [Project3 보고서](https://github.com/BonjunK00/os-xv6/blob/master/project03_2019092306.pdf)
 
-### Project1
+## Project1
 * MLFQ 방식의 스케줄러를 구현하였습니다.
-### Project2
+## Project2
 * Light-weight process(thread)를 구현하였습니다.
-### Project3
+## Project3
 * Multi Inderect를 구현하였습니다.
 * Symbolic Link를 구현하였습니다.
 * Sync를 구현하였습니다.
